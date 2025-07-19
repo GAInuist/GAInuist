@@ -12,7 +12,7 @@ GAI, a research group affiliated with [School of Artificial Intelligence](https:
 ### 🎓 Current Members
 - **Prof. Yuan Zhou** – Associate Professor
 - **Shilong Jin** – Graduate Student
-- **[Litang Hua](https://github.com/robin-hlt)** – Graduate Student  
+- **[Litao Hua](https://github.com/robin-hlt)** – Graduate Student  
 - **Wentao Huang** – Graduate Student  
 - **Zhixuan Deng** – Undergraduate Student
 ### 🎓 Alumni
