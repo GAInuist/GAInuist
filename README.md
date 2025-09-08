@@ -8,12 +8,16 @@ GAI, a research group affiliated with [School of Artificial Intelligence](https:
 - 🎞️ Video Understanding
 - ✂️ Video Segmentation
 - 📊 Multimodal Representation Learning
+- 🤖 Embodied Intelligence
 ## 👥 Team Members
 ### 🎓 Current Members
 - **Prof. Yuan Zhou** – Associate Professor
-- **Shilong Jin** – Graduate Student
+- **[Shilong Jin](https://github.com/kimslong)** – Graduate Student
 - **[Litao Hua](https://github.com/robin-hlt)** – Graduate Student  
-- **Wentao Huang** – Graduate Student  
+- **[Wentao Huang](https://github.com/huangHH73)** – Graduate Student
+- **Jiachen Deng** – Graduate Student
+-  **Zhijun Li** – Graduate Student
+-  **Mengyu Wang** – Graduate Student
 - **Zhixuan Deng** – Undergraduate Student
 ### 🎓 Alumni
 - **Yifan Zhu** – Former Undergraduate Student (Admitted to Nanjing University of Science and Technology for Master's)  
