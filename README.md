@@ -1,7 +1,7 @@
 
 # GAI-nuist <a href="" target='_blank'>
 ## 🏠 About
-GAI, a research group affiliated with [School of Artificial Intelligence](https://rgzn.nuist.edu.cn/) at Nanjing University of Information Science and Technology (NUIST). The group is led by Professor [Yuan Zhou](https://faculty.nuist.edu.cn/zhouyuan/zh_CN/index.htm). Contact us via yuanzhou@nuist.edu.cn. Welcome to collaborate and communicate.
+GAI, a research group affiliated with [School of Artificial Intelligence](https://rgzn.nuist.edu.cn/) at Nanjing University of Information Science and Technology (NUIST). The group is led by Professor [Yuan Zhou](https://faculty.nuist.edu.cn/zhouyuan/zh_CN/index.htm). Contact us via zhouyuan@nuist.edu.cn. Welcome to collaborate and communicate.
 ## 🔬 Research Areas
 - 🧠 Zero-shot Learning
 - 🖼️ Image & 3D Generation
