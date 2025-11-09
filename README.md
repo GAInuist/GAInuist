@@ -1,7 +1,7 @@
 
 # GAI-nuist <a href="" target='_blank'>
 ## 🏠 About
-GAI, a research group affiliated with [School of Artificial Intelligence](https://rgzn.nuist.edu.cn/) at Nanjing University of Information Science and Technology (NUIST). The group is led by Professor [Yuan Zhou](https://faculty.nuist.edu.cn/zhouyuan/zh_CN/index.htm). Contact us via zhouyuan@nuist.edu.cn. Welcome to collaborate and communicate.
+GAI, a research group affiliated with [School of Artificial Intelligence](https://rgzn.nuist.edu.cn/) at Nanjing University of Information Science and Technology (NUIST). The group is led by Professor [Yuan Zhou](https://faculty.nuist.edu.cn/zhouyuan/zh_CN/index.htm). Contact us via zhouyuan@nuist.edu.cn. Our team is closely working with [Haoran Duan](https://scholar.google.com/citations?user=2fIQOBsAAAAJ&hl=en) in Tsinghua University. Welcome to collaborate and communicate.
 ## 🔬 Research Areas
 - 🧠 Zero-shot Learning
 - 🖼️ Image & 3D Generation
@@ -18,7 +18,7 @@ GAI, a research group affiliated with [School of Artificial Intelligence](https:
 - **Jiachen Deng** – Graduate Student
 - **Zhixuan Deng** – Undergraduate Student
 ### 🎓 Alumni
-- **Yifan Zhu** – Former Undergraduate Student (Admitted to Nanjing University of Science and Technology for Master's)  
+- **[Yifan Zhu](https://github.com/YFan-Z1)** – Former Undergraduate Student (Admitted to Nanjing University of Science and Technology for Master's)  
 - **Lei Xiang** – Former Graduate Student (Currently pursuing Ph.D. at Nagoya University)  
 - **Fan Liu** – Former Graduate Student (Now working in industry)
 ## 🔥 News
