@@ -24,6 +24,7 @@ GAI, a research group affiliated with [School of Artificial Intelligence](https:
 - **Lei Xiang** – Former Graduate Student (Currently pursuing Ph.D. at Nagoya University)  
 - **Fan Liu** – Former Graduate Student (Now working in industry)
 ## 🔥 News
+- **2025.11** 🎉🎉 Two papers are accepted to AAAI 2026. Congratulations to Shilong Jin and Litao Hua!
 - **2025.6** undergraduate member Yifan Zhu published a paper titled "DFAN++: Enhanced Triple-branch Network for Generalized Zero-Shot Image Classification" in Neurocomputing. [Project Page](https://github.com/GAInuist/DFANpp)
 - **2025.5** code of ZeroDINO is released.
 - **2025.4** "Attention in diffusion models: A survey" is released.
