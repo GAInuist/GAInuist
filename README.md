@@ -23,7 +23,7 @@ GAI, a research group affiliated with [School of Artificial Intelligence](https:
 - **Fan Liu** – Former Graduate Student (Now working in industry)
 ## 🔥 News
 - **2025.11** 🎉🎉 Two papers are accepted to AAAI 2026. Congratulations to Shilong Jin and Litao Hua! Codes of the papers are coming soon.
-- **2025.11** 🎉 ZeroDINO is accepted to MMM 2026. Congratulations to Jiachen Deng! [Project Page](https://github.com/GAInuist/ZeroDINO)
+- **2025.11** 🎉 ZeroDINO is accepted to MMM 2026. Congratulations to Zhixuan Deng! [Project Page](https://github.com/GAInuist/ZeroDINO)
 - **2025.6** undergraduate member Yifan Zhu published a paper titled "DFAN++: Enhanced Triple-branch Network for Generalized Zero-Shot Image Classification" in Neurocomputing. [Project Page](https://github.com/GAInuist/DFANpp)
 - **2025.5** code of ZeroDINO is released.
 - **2025.4** "Attention in diffusion models: A survey" is released on arXiv. [paper](https://arxiv.org/abs/2504.03738)
