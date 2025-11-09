@@ -16,8 +16,6 @@ GAI, a research group affiliated with [School of Artificial Intelligence](https:
 - **[Litao Hua](https://github.com/robin-hlt)** – Graduate Student  
 - **[Wentao Huang](https://github.com/huangHH73)** – Graduate Student
 - **Jiachen Deng** – Graduate Student
--  **Zhijun Li** – Graduate Student
--  **Mengyu Wang** – Graduate Student
 - **Zhixuan Deng** – Undergraduate Student
 ### 🎓 Alumni
 - **Yifan Zhu** – Former Undergraduate Student (Admitted to Nanjing University of Science and Technology for Master's)  
