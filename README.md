@@ -5,6 +5,7 @@ GAI, a research group affiliated with [School of Artificial Intelligence](https:
 
 
 ## 🔥 News
+- **2026.04** 🎉 **_ConsDreamer_** Is Accepted to **IEEE TIP**. Congratulations to Shilong Jin! [Project Page](https://github.com/GAInuist/ConsDreamer)
 - **2025.12** Codes of [**_TD-Attn_**](https://github.com/GAInuist/AAAI26-TDAttn) and [**_ReaSon_**](https://github.com/robin-hlt/AAAI26-ReaSon) Are Released.
 - **2025.11** 🎉🎉 Two Papers Are Accepted to **AAAI 2026**. Congratulations to Shilong Jin (**_TD-Attn_**) and Litao Hua (**_ReaSon_**)! Codes of the Papers Are Coming Soon.
 - **2025.11** 🎉 **_ZeroDINO_** Is Accepted to **MMM 2026**. Congratulations to Zhixuan Deng! [Project Page](https://github.com/GAInuist/ZeroDINO)
